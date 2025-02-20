@@ -4,6 +4,9 @@ FULL NAME : Manuel A. Galang III
 
 Degree Program : BS Computer Science 
 
-Live link :
+Live link : https://github.com/CMSC-100-2S24-25-C3L/exer-03-javascript-basics-part-1-thirdy-33.git 
 
 What are your key takeaways from this exercise: 
+- Learned the use of javascript and how to execute files without using a browser
+- Learned to use the data types of the programming language in this exercise
+- How similar and almost the same NODE js is with the other known programming languages
